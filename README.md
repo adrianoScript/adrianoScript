@@ -1,6 +1,6 @@
 ### 👋 Welcome!
 
-<div align="center">
+
   <a href="https://github.com/adrianoScript">
   <img height="180em" src="https://user-images.githubusercontent.com/85299449/134818436-ed54c7e2-d3d7-46c3-9bcc-98959f416dd0.png"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoScript&layout=compact&langs_count=7&theme=dark"/>
 </div>
